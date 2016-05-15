@@ -1,3 +1,3 @@
 'use strict'
 
-module.exports = require.('./lib/maker');
+module.exports = require('./lib/maker');
