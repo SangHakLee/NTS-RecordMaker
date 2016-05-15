@@ -1,1 +1,5 @@
-console.log("test");
+var test = require('../lib/maker')
+
+
+
+console.log(test.makeEmployeeNum());
