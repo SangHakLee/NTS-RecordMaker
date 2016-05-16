@@ -10,3 +10,13 @@
 	NT01321 15
 4. 사원번호에서 NT는 바뀔 수 없고, 뒤의 다섯 자리는 random 숫자. random 값이 99999 이하면 0으로 채움.(30이라면 NT00030)
 5. 사원번호 중복 안됨.
+
+## Installation
+```
+$ npm install nts-recordmaker
+```
+
+## Useage
+```
+$ npm test 3
+```
