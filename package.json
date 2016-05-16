@@ -1,6 +1,6 @@
 {
   "name": "nts-recordmaker",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "NHN Technology Services intern resume",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/SangHakLee/NTS-RecordMaker.git"
   },
+  "keywords": [
+    "NHN Technology Services",
+    "RecordMaker"
+  ],
   "author": "sanghaklee",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/SangHakLee/NTS-RecordMaker/issues"
   },
+  "readme" : "README.md",
   "homepage": "https://github.com/SangHakLee/NTS-RecordMaker#readme"
 }
