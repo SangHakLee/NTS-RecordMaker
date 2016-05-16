@@ -18,5 +18,6 @@ $ npm install nts-recordmaker
 
 ## Useage
 ```
+$ cd node_modules/nts-recordmaker
 $ npm test 3
 ```
