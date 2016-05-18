@@ -16,6 +16,14 @@
 $ npm install nts-recordmaker
 ```
 
+## Pre Requirements
+
+### Node.js
+##### On Mac OS
+```
+$ brew install node
+```
+
 ## Useage
 ```
 $ cd node_modules/nts-recordmaker
