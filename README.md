@@ -1,6 +1,6 @@
 # 2016 NTS 인턴 문제
 
-## 요구사항
+## Question
 1. 사원번호와 성적을 출력하는 프로그램을 만드시오.
 2. input : java RecordMaker [count]
 3. output : NT00002 80
@@ -15,12 +15,6 @@
 	> NT01321 15
 
 
-
-## Installation
-```
-$ npm install nts-recordmaker
-```
-
 ## Pre Requirements
 
 ### Node.js
@@ -29,8 +23,24 @@ $ npm install nts-recordmaker
 $ brew install node
 ```
 
+## Installation
+```
+$ npm install nts-recordmaker
+```
+
 ## Useage
+
+####Test Useage
 ```
 $ cd node_modules/nts-recordmaker
 $ npm test 3
+```
+
+####Npm Useage
+```js
+var nts = require('nts-recordmaker');
+
+var employee = nts.makeEmployeeNum(5);
+
+console.log(employee); // returns [ 'NT00001 5', 'NT00012 10', 'NT00016 55', 'NT00123 15', 'NT00111 52']
 ```
