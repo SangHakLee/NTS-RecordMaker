@@ -44,3 +44,11 @@ var employee = nts.makeEmployeeNum(5);
 
 console.log(employee); // returns [ 'NT00001 5', 'NT00012 10', 'NT00016 55', 'NT00123 15', 'NT00111 52']
 ```
+
+## Demo
+https://tonicdev.com/npm/nts-recordmaker
+```js
+var nts = require("nts-recordmaker")
+nts.makeEmployeeNum(5)
+```
+<img src="https://s3.ap-northeast-2.amazonaws.com/sanghaklee/Tonic+%2B+npm%3A+nts-recordmaker+2016-05-21+13-36-01.jpg">
