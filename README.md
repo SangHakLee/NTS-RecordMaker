@@ -22,6 +22,14 @@
 ```
 $ brew install node
 ```
+##### On Ubuntu
+```
+$ sudo apt-get update
+$ sudo apt-get install nodejs
+$ sudo apt-get install npm
+```
+##### On Windows
+https://nodejs.org/en/download/
 
 ## Installation
 ```
